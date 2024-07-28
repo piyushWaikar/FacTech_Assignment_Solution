@@ -18,6 +18,7 @@ const PMCard = ({ id, name, status, isSubPM = false, onClick }) => {
     }
   };
 
+  // Rendering sub PM's and defining styling according to main & Sub PM .
   return (
     <div
       onClick={handleClick}

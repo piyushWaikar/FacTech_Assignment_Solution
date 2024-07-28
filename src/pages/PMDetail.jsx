@@ -12,7 +12,7 @@ const demoData = {
   202: { name: 'WO 2-2', status: 'Completed', details: 'Details about WO 2-2' },
   301: { name: 'WO 3-1', status: 'WIP', details: 'Details about WO 3-1' },
   401: { name: 'WO 4-1', status: 'Future WO', details: 'Details about WO 4-1' },
-  // Add more data as needed...
+  
 };
 
 const PMDetail = () => {
